@@ -6,7 +6,7 @@ For a long time I was no more then just an enthusiast in programming, tried to s
 but Java appeared to be the most suitable for me and the JVM in common: Scala - for Data Analysis; Kotlin - for Mobile Development. So I keeping
 studying them all fulfilling at the same time the duties of:
 
-- Junior Java Developer in a Fin-Tech who faces new challenges at work everyday
+- Junior Java Specialist in a Fin-Tech who faces new challenges at work everyday
 - Post-Graduate student in BMSTU who desperately tries to write his PhD paper on Rocket Engines as soon as it is possible
 - Japan Lover who studies at nights dreaming of working in Japan one day
 - And the last but not the least - A musician, who is going to release his own album one day in style of viby 80-s
